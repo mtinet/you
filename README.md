@@ -9,7 +9,7 @@ YouTube 동영상(https://youtu.be/3iBbPjsq1uo)중 뒷부분(3iBbPjsq1uo)을 붙
 ---
 
 * **1080p화질로 재생**  
-embed src="http://www.youtube.com/v/WPVA9tJMZWQ?version=3&hl=ko_KR&vq=hd1080" type="application/x-shockwave-flash" width="640" height="360" ="always" __allowfullscreen="true"__></embed>  
+embed src="http://www.youtube.com/v/WPVA9tJMZWQ?version=3&hl=ko_KR&vq=hd1080" type="application/x-shockwave-flash" width="640" height="360" ="always" _allowfullscreen="true"_></embed>  
 
 
 * **720p화질로 재생**  

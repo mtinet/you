@@ -24,3 +24,8 @@ embed src="http://www.youtube.com/v/코드?version=3&hl=ko_KR" type="application
  
 * **예제**  
 embed src="http://www.youtube.com/v/WPVA9tJMZWQ?version=3&hl=ko_KR&vq=hd1080" type="application/x-shockwave-flash" width="640" height="360" ="always" _allowfullscreen="true"_></embed>  
+
+
+---
+### 예제가 적용된 홈페이지 
+[http://mtinet.github.io/you/](http://mtinet.github.io/you/)

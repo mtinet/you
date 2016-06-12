@@ -2,7 +2,7 @@
 
 * (1080p화질로 재생)  
 
-"<"+"embed src="http://www.youtube.com/v/WPVA9tJMZWQ?version=3&hl=ko_KR&vq=hd1080" type="application/x-shockwave-flash" width="640" height="360" ="always" allowfullscreen="true"></embed>"  
+'<'embed src="http://www.youtube.com/v/WPVA9tJMZWQ?version=3&hl=ko_KR&vq=hd1080" type="application/x-shockwave-flash" width="640" height="360" ="always" allowfullscreen="true"></embed>  
 
 
 * (720p화질로 재생)

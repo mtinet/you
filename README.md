@@ -28,6 +28,7 @@ embed src="http://www.youtube.com/v/코드?version=3&hl=ko_KR" type="application
 * **예제**  
 embed src="http://www.youtube.com/v/WPVA9tJMZWQ?version=3&hl=ko_KR&vq=hd1440" type="application/x-shockwave-flash" width="640" height="360" ="always" _allowfullscreen="true"_></embed>  
 
+* 예제에 링크된 동영상 소스의 주소양식, 즉 'http://www.youtube.com/v/WPVA9tJMZWQ?version=3&hl=ko_KR&vq=hd1440' 부분은 유튜브 홈페이지로 들어가는 것이 아니라 유튜브의 영상물만을 따와서 새로 구축하는 페이지에서 사용하는 것이므로, 크기를 지정해주지 않으면 열려있는 브라우저의 넓이가 가득찬 화면을 보도록 설정되어 있다. 
 
 ---
 ### 예제가 적용된 홈페이지 

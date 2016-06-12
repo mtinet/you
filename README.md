@@ -15,12 +15,12 @@ embed src="http://www.youtube.com/v/코드?version=3&hl=ko_KR&vq=hd1080" type="a
 
 
 * **720p화질로 재생**  
-embed src="http://www.youtube.com/v/코드?version=3&hl=ko_KR&vq=hd720" type="application/x-shockwave-flash" width="640" height="360" ="always" allowfullscreen="true"></embed>
+embed src="http://www.youtube.com/v/코드?version=3&hl=ko_KR&vq=hd720" type="application/x-shockwave-flash" width="640" height="360" ="always" _allowfullscreen="true"_></embed>
  
 
 * **일반화질로 재생**  
-embed src="http://www.youtube.com/v/코드?version=3&hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" x-allowscriptaccess="always" allowfullscreen="true"></embed>
+embed src="http://www.youtube.com/v/코드?version=3&hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" x-allowscriptaccess="always" _allowfullscreen="true"_></embed>
  
  
 * **예제**  
-embed src="http://www.youtube.com/v/WPVA9tJMZWQ?version=3&amp;hl=ko_KR&amp;vq=hd1080" type="application/x-shockwave-flash" width="640" height="360" allowfullscreen="true" invokeurls="false" allowscriptaccess="never" allownetworking="all" enablehtmlaccess="false" allowhtmlpopupwindow="true">
+embed src="http://www.youtube.com/v/WPVA9tJMZWQ?version=3&hl=ko_KR&vq=hd1080" type="application/x-shockwave-flash" width="640" height="360" ="always" _allowfullscreen="true"_></embed>  

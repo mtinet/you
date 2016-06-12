@@ -28,4 +28,4 @@ embed src="http://www.youtube.com/v/WPVA9tJMZWQ?version=3&hl=ko_KR&vq=hd1080" ty
 
 ---
 ### 예제가 적용된 홈페이지 
-[http://mtinet.github.io/you/](http://mtinet.github.io/you/)
+![https://raw.githubusercontent.com/mtinet/you/gh-pages/youtube_link.png](http://mtinet.github.io/you/)

@@ -29,3 +29,4 @@ embed src="http://www.youtube.com/v/WPVA9tJMZWQ?version=3&hl=ko_KR&vq=hd1080" ty
 ---
 ### 예제가 적용된 홈페이지 
 <a href="http://mtinet.github.io/you/" target=_blank> http://mtinet.github.io/you/</a>
+<a href="http://mtinet.github.io/p5js/3.4 Boolean variables" target=_blank>3.4 Boolean variables</a>

@@ -28,6 +28,6 @@ embed src="http://www.youtube.com/v/WPVA9tJMZWQ?version=3&hl=ko_KR&vq=hd1080" ty
 
 ---
 ### 예제가 적용된 홈페이지 
-[![아래 사진을 클릭하세요.](https://raw.githubusercontent.com/mtinet/you/gh-pages/youtube_link.png)](http://mtinet.github.io/you/)  
+[![아래 사진을 클릭하세요.](https://raw.githubusercontent.com/mtinet/you/gh-pages/youtube_link.png)](http://mtinet.github.io/youtube_fullScreenVideoLink)  
 
 _위에 index.html 파일을 확인해보면 동영상에 나오는 아주 간단한 홈페이지의 소스코드를 확인할 수 있습니다._

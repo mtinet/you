@@ -17,12 +17,12 @@ embed src="http://www.youtube.com/v/코드?version=3&hl=ko_KR" type="application
  
  
 
----
+
 * 위의 명령어 복사하고 "코드" 라고 되어 있는 부분에 
 YouTube 동영상(https://youtu.be/3iBbPjsq1uo)중 뒷부분(3iBbPjsq1uo)을 붙여 넣으면
 정상적으로 전체화면이 표시됨  
 * 소스코드 앞에 '<'를 꼭 넣어줘야 동작함. 
----
+
 
 
 * 예제
